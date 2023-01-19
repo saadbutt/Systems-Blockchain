@@ -10,6 +10,6 @@
 
 ### some of the failed transactions are due to gas fee
 
-### screenshot of transactions are attached. Started count from 5
+### screenshot of transactions is `https://github.com/saadbutt/Systems-Blockchain/blob/main/Q3/Screenshot%20of%20wins%20count.png`. Started count from 5
 
 ### let me know if you want to know more, thanks
