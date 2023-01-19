@@ -10,4 +10,6 @@
 
 ### some of the failed transactions are due to gas fee
 
+### screenshot of transactions are attached. Started count from 5
+
 ### let me know if you want to know more, thanks
