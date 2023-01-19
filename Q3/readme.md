@@ -10,7 +10,7 @@
 
 ### some of the failed transactions are due to gas fee
 
-### screenshot of transactions is ![remix_screenshot]([http://url/to/img.png](https://github.com/saadbutt/Systems-Blockchain/blob/main/Q3/Screenshot%20of%20wins%20count.png)) 
+### screenshot of transactions is ![remix_screenshot](https://github.com/saadbutt/Systems-Blockchain/blob/main/Q3/Screenshot_of_wins_count.png)
 Started count from 5
 
 ### let me know if you want to know more, thanks
